@@ -1,4 +1,4 @@
-# Адрес работы
+# https://merymegg.github.io/validation/
 
 #### Проектная работа 10
 Версия: v0.0.2
