@@ -1,4 +1,4 @@
-# https://merymegg.github.io/Project10/validation/
+# hhttps://merymegg.github.io/Project10-RegularExpressions/validation/
 
 #### Проектная работа 10
 Версия: v0.0.2
